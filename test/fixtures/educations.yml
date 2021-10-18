@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  from_date: MyString
+  to_date: MyString
+  institute: MyString
+  degree_title: MyString
+
+two:
+  from_date: MyString
+  to_date: MyString
+  institute: MyString
+  degree_title: MyString
